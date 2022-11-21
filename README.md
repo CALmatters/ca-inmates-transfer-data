@@ -11,7 +11,7 @@ There are two files available:
 * The de-identified ID represents the same person across both datasets.
 
 ## Full request
-The original request was for the story [Inmate shuffle: How California bounces around its mentally ill prisoners](https://calmatters.org/health/2022/06/mental-health-california-prisons/) by CalMatters reporters Byrhonda Lyons and Jocelyn Wiener, published June 2, 2022.
+The original request was for the story [Inmate shuffle: How California bounces around its mentally ill prisoners](https://calmatters.org/health/2022/06/mental-health-california-prisons/) by CalMatters reporters Byrhonda Lyons and Jocelyn Wiener, published June 2, 2022. Findings from the data appear in [Mentally ill prisoners in California are three times likelier to get shuffled around](https://calmatters.org/justice/2022/11/california-mentally-ill-prisoner-transfers/), published November 21, 2022.
 
 March 31, 2022 request:
 1. On average how often were California inmates transferred each year between 2016 and 2021?
